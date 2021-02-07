@@ -1,6 +1,5 @@
 import os
 import random
-#import multiprocessing as mp
 
 fileName = 'simulated_data_5000a.tsv'
 os.chdir('/home/deney/Dropbox/doutorado/Bioinfo/projetos_paralelos/Simulated_data/') #Set local dos arquivos
